@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">cc</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="place_type">
+    <item>airport</item>
+    <item>atm</item>
+    <item>bank</item>
+    <item>bus_station</item>
+    </string-array>
+    <string-array name="place_type_name">
+        <item>airport</item>
+        <item>atm</item>
+        <item>bank</item>
+        <item>bus_station</item>
+    </string-array>
+</resources>
